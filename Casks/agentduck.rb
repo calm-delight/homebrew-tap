@@ -1,6 +1,6 @@
 cask "agentduck" do
-  version "1.0,8b86d4f"
-  sha256 "b4d894500f5d1b6a7a0699ba67fdd0cd169113a4a9737cd5b931b43bd2e81798"
+  version "1.0.0,92d1a00"
+  sha256 "e1d3cc076e4c313a9e4b81b38e96aeb7597d332061e3fee5f35d02d37ff464ed"
 
   url "https://updates.getagentduck.com/downloads/AgentDuck-#{version.csv.first}-#{version.csv.second}.dmg"
   name "AgentDuck"
